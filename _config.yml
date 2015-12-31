@@ -1,4 +1,20 @@
-analytics: {}
+name: Flyte
+favicon: null
+layout_spectrum: 0.382882
+typography_spectrum: 0.217342
+title: Flyte Sport
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -8,11 +24,6 @@ color:
     - '#160600'
   brandStrength: 0.471632
   lightness: 0.102016
-  rhythmicContrast: 0.033435
   saturation: 0.068962
-cta: {}
-layout_spectrum: 0.382882
-name: Flyte
-opengraph: {}
+  rhythmicContrast: 0.033435
 purpose: []
-typography_spectrum: 0.217342
