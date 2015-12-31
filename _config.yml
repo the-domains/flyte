@@ -1,0 +1,28 @@
+name: Flyte
+favicon: null
+layout_spectrum: 0.34197663818486035
+typography_spectrum: 0.7688722652383149
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4716324901673943
+  lightness: 0.10201634094119072
+  saturation: 0.0689623742364347
+  rhythmicContrast: 0.03343506879173219
+purpose: []
